@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Airport/ndb.ac 29.216588 -1.685851 1460.99 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 29.233255 -1.685851 1497.57 180
+OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml 29.2389004 -1.6627959 1540.65 280
+OBJECT_SHARED Models/Transport/hummerh2.xml 29.2410282 -1.6591152 1554.21 0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml 29.23 -1.67 1523.05 90
+OBJECT_SHARED Models/Power/coal_heap_large.ac 29.2372967 -1.6595646 1543.23 0
+OBJECT_SHARED Models/Power/coal_heap_large.ac 29.2373239 -1.6604492 1541.88 0
+OBJECT_SHARED Models/Power/coal_heap_large.ac 29.2374508 -1.6612914 1539.7 0
+OBJECT_SHARED Models/Power/coal_heap_large.ac 29.2375802 -1.6609251 1540.81 0
+OBJECT_SHARED Models/Power/coal_heap_large.ac 29.2376223 -1.6599812 1543.19 44
